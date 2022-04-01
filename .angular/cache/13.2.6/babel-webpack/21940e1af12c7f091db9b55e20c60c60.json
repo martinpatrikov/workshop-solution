@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { RouterModule } from '@angular/router';\nimport { HomeComponent } from './home/home.component';\nconst routes = [{\n  path: '',\n  pathMatch: 'full',\n  component: HomeComponent\n}];\nexport const AppRoutingModule = RouterModule.forRoot(routes);","map":null,"metadata":{},"sourceType":"module"}
